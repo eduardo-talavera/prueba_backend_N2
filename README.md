@@ -1,4 +1,4 @@
-# Node js Detector de Mutaciones Geneticas 🧬
+# Node js Api DNA Mutante Checker 🧬
 
 
 ## Desafío:
