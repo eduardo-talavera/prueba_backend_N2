@@ -30,8 +30,14 @@ $ npm start
 $ npm run dev
 ```
 
-### 🚀enviar peticion POST con postman  a la url :
+### 🚀enviar peticion POST con postman  a la siguiente url para un entorno local :
 ```sh
 http://localhost:3000/mutation
+```
+
+
+### 💭 Url del cloud :
+```sh
+https://dry-forest-10672.herokuapp.com/mutation
 ```
 
