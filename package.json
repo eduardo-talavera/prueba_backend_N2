@@ -1,0 +1,19 @@
+{
+  "name": "api-dna-mutante",
+  "version": "1.0.0",
+  "description": "verifica si una secuencia de codico dna tiene mutaciones",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "dev": "nodemon ./index.js"
+  },
+  "author": "Eduardo Talavera",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
